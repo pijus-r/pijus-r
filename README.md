@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pijus-r&label=Profile%20views&color=0e75b6&style=flat" alt="pijus-r" /> </p>
 
 - 🔭 I’m currently working on **stack boilerplate generator and several NPM packages**
 
