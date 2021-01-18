@@ -1,5 +1,4 @@
-
-- 🔭 I’m currently working on **stack boilerplate generator and several NPM packages**
+I’m currently working on **several NPM packages**
 
 
 <h3 align="left">Languages and Tools:</h3>
